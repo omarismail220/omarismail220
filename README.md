@@ -22,12 +22,25 @@
 
 # Contact Me
 
+<details>
+<summary>Click To Reach me </summary>
+
 You can reach me through the following platforms:
 
-- ![Gmail](https://your-repo-url/images/gmail-logo.png) [Gmail](mailto:your-email@gmail.com)
-- ![WhatsApp](https://your-repo-url/images/whatsapp-logo.png) [WhatsApp](https://wa.me/your-whatsapp-number)
-- ![Facebook](https://your-repo-url/images/facebook-logo.png) [Facebook](https://www.facebook.com/your-profile)
-- ![LinkedIn](https://your-repo-url/images/linkedin-logo.png) [LinkedIn](https://www.linkedin.com/in/your-profile)
+<a href="mailto:omarismailhelmy@gmail.com">
+    <img src="https://img.icons8.com/stickers/50/gmail-new.png" alt="Gmail" width="50" height="50"/>
+</a>
+<a href="https://wa.me/201005137548">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50" height="50" alt="WhatsApp"/>
+</a>
+<a href="https://www.facebook.com/Omarismailhelmy/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50" height="50" alt="Facebook"/>
+</a>
+<a href="https://www.linkedin.com/in/omar-ismail-94b71a222/">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" alt="LinkedIn" width="50" height="50"/>
+</a>
+
+</details>
 
 
 
