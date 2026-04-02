@@ -1,53 +1,142 @@
- <h1 align="center">Hi 👋, I'm <span style="color:blue;">Omar Ismail Helmy</span></h1>
- <p align="center" style="font-size: 24px; font-weight: bold;">A Frontend Developer With DevOps Skill😎 </p>
- <p align="center" style="font-size: 24px; font-weight: bold;">📊 GitHub Stats:</p>
+!-- Banner-->
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarismail220&show_icons=true&theme=radical)
+<!-- ![Personal Profile Banner](./assets/cover3.png) -->
+# 🏆 GitHub Achievements 🏆
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarismail220&layout=compact&theme=radical)
+# 📃 Achievement List 📃
+<br>
 
-### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
+| Badge | Name | How to get | Needed amount | 
+| :-: | :-: | :-: | :-: |
+| ![Quickdraw](/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)                 | Quickdraw        | Gitty up!<br>(closed an issue / pull request within 5 minutes of opening) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
+| ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark  | Opened a pull request that has been merged | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60px"></td>   <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">1024</td>  </tr>   </tbody>  </table>      |
+| ![YOLO](/Media/Badges/YOLO/PNG/YOLO_Badge.png)                 | YOLO        | Merged a pull request without a review | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 
-### 🔥 GitHub Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=github)
+
+<br>
+<p align="center">
+Omar is a web developer who loves code, food, and music skilled in creating and
+maintaining stunning web applications and websites. Proficient in the latest
+web technologies and frameworks, continuously expanding my skill set to stay at the forefront
+of the industry.
+</p>
+
+##
+
+<br>
+<!---
+- Web illustrations by Storyset ( https://storyset.com/web )
+--->
+<!-- <img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/> -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
 
 
+<be>
+<br/>
 
-🔭 I’m currently working in NoteBook
+- 🔍 Take a look at my projects on [**my portfolio**](https://ahmeamin.tech/)!.
 
-🌱 I’m currently learning Devops
+- 📫 How to reach me: **Omarismailhelmy@gmail.com**.
 
-📫 How to reach me omarismailhelmy@gmail.com
+-  ![](https://komarev.com/ghpvc/?username=ahmedamin20)
 
-# Contact Me
+-  ![Star on GitHub](https://img.shields.io/github/stars/ahmedamin20/ahmedamin20.svg?style=social)
 
-<details>
-<summary>Click To Reach me </summary>
 
-You can reach me through the following platforms:
+<br>
+<br>
 
-<a href="mailto:omarismailhelmy@gmail.com">
-    <img src="https://img.icons8.com/stickers/50/gmail-new.png" alt="Gmail" width="50" height="50"/>
-</a>
-<a href="https://wa.me/201005137548">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50" height="50" alt="WhatsApp"/>
-</a>
-<a href="https://www.facebook.com/Omarismailhelmy/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50" height="50" alt="Facebook"/>
-</a>
-<a href="https://www.linkedin.com/in/omar-ismail-94b71a222/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" alt="LinkedIn" width="50" height="50"/>
-</a>
 
+<br>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedamin20&show_icons=true&theme=radical&count_private=true" alt="ahmedamin20" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamin20&layout=compact&theme=radical" alt="ahmedamin20" height="165">
+</p>
+
+</div>
+
+<div align = "center">
+  
+[![Gmail: Ahmed Amin](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahmed.amin.work24@gmai.com)](mailto:ahmed.amin.work24@gmai.com)&nbsp;
+[![Linkedin: Ahmed Amin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-amin-2280a8149/)](https://www.linkedin.com/in/ahmed-amin-2280a8149/)
+
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<!-- <div align="center"> -->
+<details open>
+<summary><b>🏄‍♂️ Frontend</b></summary>
+<br>
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Three JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
+![Next js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 </details>
 
 
 
-Languages and Tools:
 
 
-<!---
-omarismail220/omarismail220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<details open>
+<summary><b>💻 Software and Tools</b></summary>
+<br>
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)&nbsp;
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+</details>
+
+
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ahmedamin20&theme=radical&hide_border=true" alt="ahmedamin20" width="420"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedamin20&theme=radical&no-frame=true&no-bg=true" alt="ahmedamin20" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedamin20&theme=rogue"/>
+</p>
+</details>
