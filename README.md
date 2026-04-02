@@ -1,4 +1,5 @@
 !-- Banner-->
+<h1 alligen=Center>Omar ismail Helmy</h1>
 
 <!-- ![Personal Profile Banner](./assets/cover3.png) -->
 # 🏆 GitHub Achievements 🏆
