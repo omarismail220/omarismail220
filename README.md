@@ -1,6 +1,5 @@
 !-- Banner-->
-<h1 alligen=Center style="text-align: center;">Omar ismail Helmy</h1>
-
+  <h1 alligen=Center style="text-align: center;" style="font-weight: lighter;">Omar ismail Helmy</h1>
 <!-- ![Personal Profile Banner](./assets/cover3.png) -->
 # 🏆 GitHub Achievements 🏆
 <br>
